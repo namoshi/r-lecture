@@ -43,3 +43,6 @@ vignettes/*.pdf
 
 # VS Code
 .vscode
+
+# Rstudio
+*.Rproj
